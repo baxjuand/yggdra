@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: a1f694915706942a6aee36f158eb07d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3052870787804172872
+    second: 16x16 Yggdra Tileset And Sprites_0
+  - first:
+      213: 2228419786752011283
+    second: 16x16 Yggdra Tileset And Sprites_1
+  - first:
+      213: -4436122297450420320
+    second: 16x16 Yggdra Tileset And Sprites_2
+  - first:
+      213: -8269578576407597002
+    second: 16x16 Yggdra Tileset And Sprites_3
+  - first:
+      213: -7115058988084389553
+    second: 16x16 Yggdra Tileset And Sprites_4
+  - first:
+      213: -4716817628423682172
+    second: 16x16 Yggdra Tileset And Sprites_5
+  - first:
+      213: 6278563648289670538
+    second: 16x16 Yggdra Tileset And Sprites_6
+  - first:
+      213: 8995436332484402168
+    second: 16x16 Yggdra Tileset And Sprites_7
+  - first:
+      213: 4515602869620734206
+    second: 16x16 Yggdra Tileset And Sprites_8
+  - first:
+      213: 4194071935441731194
+    second: 16x16 Yggdra Tileset And Sprites_9
+  - first:
+      213: 6763739082574643779
+    second: 16x16 Yggdra Tileset And Sprites_10
+  - first:
+      213: -816517094410053000
+    second: 16x16 Yggdra Tileset And Sprites_11
+  - first:
+      213: 2506681031418442319
+    second: 16x16 Yggdra Tileset And Sprites_12
+  - first:
+      213: -276847103296591028
+    second: 16x16 Yggdra Tileset And Sprites_13
+  - first:
+      213: -1119510703189915861
+    second: 16x16 Yggdra Tileset And Sprites_14
+  - first:
+      213: -2303150137814741023
+    second: 16x16 Yggdra Tileset And Sprites_15
+  - first:
+      213: 5530795116910622992
+    second: 16x16 Yggdra Tileset And Sprites_16
+  - first:
+      213: 1348269194715135801
+    second: 16x16 Yggdra Tileset And Sprites_17
+  - first:
+      213: -4509815284917873664
+    second: 16x16 Yggdra Tileset And Sprites_18
+  - first:
+      213: 3790527940871445447
+    second: 16x16 Yggdra Tileset And Sprites_19
+  - first:
+      213: 6792175239461372438
+    second: 16x16 Yggdra Tileset And Sprites_20
+  - first:
+      213: -8472683132306727516
+    second: 16x16 Yggdra Tileset And Sprites_21
+  - first:
+      213: -1644200079485383554
+    second: 16x16 Yggdra Tileset And Sprites_22
+  - first:
+      213: 32863669611765610
+    second: 16x16 Yggdra Tileset And Sprites_23
+  - first:
+      213: -3196001957726767394
+    second: 16x16 Yggdra Tileset And Sprites_24
+  - first:
+      213: 964102551684192180
+    second: 16x16 Yggdra Tileset And Sprites_25
+  - first:
+      213: 1042574237744078193
+    second: 16x16 Yggdra Tileset And Sprites_26
+  - first:
+      213: -6363068216140934268
+    second: 16x16 Yggdra Tileset And Sprites_27
+  - first:
+      213: 344796322231240668
+    second: 16x16 Yggdra Tileset And Sprites_28
+  - first:
+      213: -3940986265498588145
+    second: 16x16 Yggdra Tileset And Sprites_29
+  - first:
+      213: 5743771997925346369
+    second: 16x16 Yggdra Tileset And Sprites_30
+  - first:
+      213: -2707337868032378901
+    second: 16x16 Yggdra Tileset And Sprites_31
+  - first:
+      213: 6574123721828831946
+    second: 16x16 Yggdra Tileset And Sprites_32
+  - first:
+      213: 6798420531497829574
+    second: 16x16 Yggdra Tileset And Sprites_33
+  - first:
+      213: -7127135591415120483
+    second: 16x16 Yggdra Tileset And Sprites_34
+  - first:
+      213: 7230310113021918197
+    second: 16x16 Yggdra Tileset And Sprites_35
+  - first:
+      213: 449683357823759567
+    second: 16x16 Yggdra Tileset And Sprites_36
+  - first:
+      213: -3631223112747855819
+    second: 16x16 Yggdra Tileset And Sprites_37
+  - first:
+      213: -6539667490964598585
+    second: 16x16 Yggdra Tileset And Sprites_38
+  - first:
+      213: -6663205074345209331
+    second: 16x16 Yggdra Tileset And Sprites_39
+  - first:
+      213: -3159943894877407812
+    second: 16x16 Yggdra Tileset And Sprites_40
+  - first:
+      213: 4396417728305877600
+    second: 16x16 Yggdra Tileset And Sprites_41
+  - first:
+      213: 944845988438262722
+    second: 16x16 Yggdra Tileset And Sprites_42
+  - first:
+      213: 4547056135369399883
+    second: 16x16 Yggdra Tileset And Sprites_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8421c348ec9fd5a20800000000000000
+      internalID: 3052870787804172872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2ec74dffecee10800000000000000
+      internalID: 2228419786752011283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72748264abf62c0800000000000000
+      internalID: -4436122297450420320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307b0f491e8c3d80800000000000000
+      internalID: -8269578576407597002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49974b2c8b324d90800000000000000
+      internalID: -7115058988084389553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48781839b5f7a8eb0800000000000000
+      internalID: -4716817628423682172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 142
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858cf37f50f12750800000000000000
+      internalID: 6278563648289670538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 125
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb106d3fa536dc70800000000000000
+      internalID: 8995436332484402168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 142
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef87a7e92e4aaae30800000000000000
+      internalID: 4515602869620734206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e70724436543a30800000000000000
+      internalID: 4194071935441731194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c94a1cd0addd50800000000000000
+      internalID: 6763739082574643779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a97aa57062ba4f0800000000000000
+      internalID: -816517094410053000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42f7eafd1589c220800000000000000
+      internalID: 2506681031418442319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b29eeb601782cf0800000000000000
+      internalID: -276847103296591028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270e1662f2b670f0800000000000000
+      internalID: -1119510703189915861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 126
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef092bf6219900e0800000000000000
+      internalID: -2303150137814741023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0193cecfad451cc40800000000000000
+      internalID: 5530795116910622992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff89c60b306b210800000000000000
+      internalID: 1348269194715135801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004d7d374eae961c0800000000000000
+      internalID: -4509815284917873664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd5d24419aa9430800000000000000
+      internalID: 3790527940871445447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6128c40d467a24e50800000000000000
+      internalID: 6792175239461372438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add964d49bfa6a80800000000000000
+      internalID: -8472683132306727516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cca923db0ae29e0800000000000000
+      internalID: -1644200079485383554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 110
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f99395551c47000800000000000000
+      internalID: 32863669611765610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed63e30172585a3d0800000000000000
+      internalID: -3196001957726767394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b71f28a92e216d00800000000000000
+      internalID: 964102551684192180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d95b4deb7f77e00800000000000000
+      internalID: 1042574237744078193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 78
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483575f9b27d1b7a0800000000000000
+      internalID: -6363068216140934268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd74472ad66f8c400800000000000000
+      internalID: 344796322231240668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 78
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c634c2fddce49c0800000000000000
+      internalID: -3940986265498588145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c0d27433af5bf40800000000000000
+      internalID: 5743771997925346369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be777f89d8a9d6ad0800000000000000
+      internalID: -2707337868032378901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2931d91bafb3b50800000000000000
+      internalID: 6574123721828831946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c486ad2477d85e50800000000000000
+      internalID: 6798420531497829574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d78a7d0f3571d90800000000000000
+      internalID: -7127135591415120483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbf59e6db8375460800000000000000
+      internalID: 7230310113021918197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc47d74a1a89d3600800000000000000
+      internalID: 449683357823759567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530d97861dd4b9dc0800000000000000
+      internalID: -3631223112747855819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c092ebc01f6e35a0800000000000000
+      internalID: -6539667490964598585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d21eb94a8783a0800000000000000
+      internalID: -6663205074345209331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5faab05cf9524d0800000000000000
+      internalID: -3159943894877407812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d6e371a6330d30800000000000000
+      internalID: 4396417728305877600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c054ab64cc1d00800000000000000
+      internalID: 944845988438262722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Yggdra Tileset And Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e147ab6736a1f30800000000000000
+      internalID: 4547056135369399883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b176b189c57ff4b348d6b78d2483f6cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16x16 Yggdra Tileset And Sprites_0: 3052870787804172872
+      16x16 Yggdra Tileset And Sprites_1: 2228419786752011283
+      16x16 Yggdra Tileset And Sprites_10: 6763739082574643779
+      16x16 Yggdra Tileset And Sprites_11: -816517094410053000
+      16x16 Yggdra Tileset And Sprites_12: 2506681031418442319
+      16x16 Yggdra Tileset And Sprites_13: -276847103296591028
+      16x16 Yggdra Tileset And Sprites_14: -1119510703189915861
+      16x16 Yggdra Tileset And Sprites_15: -2303150137814741023
+      16x16 Yggdra Tileset And Sprites_16: 5530795116910622992
+      16x16 Yggdra Tileset And Sprites_17: 1348269194715135801
+      16x16 Yggdra Tileset And Sprites_18: -4509815284917873664
+      16x16 Yggdra Tileset And Sprites_19: 3790527940871445447
+      16x16 Yggdra Tileset And Sprites_2: -4436122297450420320
+      16x16 Yggdra Tileset And Sprites_20: 6792175239461372438
+      16x16 Yggdra Tileset And Sprites_21: -8472683132306727516
+      16x16 Yggdra Tileset And Sprites_22: -1644200079485383554
+      16x16 Yggdra Tileset And Sprites_23: 32863669611765610
+      16x16 Yggdra Tileset And Sprites_24: -3196001957726767394
+      16x16 Yggdra Tileset And Sprites_25: 964102551684192180
+      16x16 Yggdra Tileset And Sprites_26: 1042574237744078193
+      16x16 Yggdra Tileset And Sprites_27: -6363068216140934268
+      16x16 Yggdra Tileset And Sprites_28: 344796322231240668
+      16x16 Yggdra Tileset And Sprites_29: -3940986265498588145
+      16x16 Yggdra Tileset And Sprites_3: -8269578576407597002
+      16x16 Yggdra Tileset And Sprites_30: 5743771997925346369
+      16x16 Yggdra Tileset And Sprites_31: -2707337868032378901
+      16x16 Yggdra Tileset And Sprites_32: 6574123721828831946
+      16x16 Yggdra Tileset And Sprites_33: 6798420531497829574
+      16x16 Yggdra Tileset And Sprites_34: -7127135591415120483
+      16x16 Yggdra Tileset And Sprites_35: 7230310113021918197
+      16x16 Yggdra Tileset And Sprites_36: 449683357823759567
+      16x16 Yggdra Tileset And Sprites_37: -3631223112747855819
+      16x16 Yggdra Tileset And Sprites_38: -6539667490964598585
+      16x16 Yggdra Tileset And Sprites_39: -6663205074345209331
+      16x16 Yggdra Tileset And Sprites_4: -7115058988084389553
+      16x16 Yggdra Tileset And Sprites_40: -3159943894877407812
+      16x16 Yggdra Tileset And Sprites_41: 4396417728305877600
+      16x16 Yggdra Tileset And Sprites_42: 944845988438262722
+      16x16 Yggdra Tileset And Sprites_43: 4547056135369399883
+      16x16 Yggdra Tileset And Sprites_5: -4716817628423682172
+      16x16 Yggdra Tileset And Sprites_6: 6278563648289670538
+      16x16 Yggdra Tileset And Sprites_7: 8995436332484402168
+      16x16 Yggdra Tileset And Sprites_8: 4515602869620734206
+      16x16 Yggdra Tileset And Sprites_9: 4194071935441731194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

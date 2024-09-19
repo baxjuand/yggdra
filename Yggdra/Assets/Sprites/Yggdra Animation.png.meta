@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 9348d3270d04b459faea711d30dbc681
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 278817465111133206
+    second: Yggdra Animation_0
+  - first:
+      213: 2946850790698702617
+    second: Yggdra Animation_1
+  - first:
+      213: -4029182682306362642
+    second: Yggdra Animation_2
+  - first:
+      213: 3972907516259918545
+    second: Yggdra Animation_3
+  - first:
+      213: -5938801849595850119
+    second: Yggdra Animation_4
+  - first:
+      213: -2526673136882478170
+    second: Yggdra Animation_5
+  - first:
+      213: 6703491354003122699
+    second: Yggdra Animation_6
+  - first:
+      213: 6954569092369168560
+    second: Yggdra Animation_7
+  - first:
+      213: 5904334519699514266
+    second: Yggdra Animation_8
+  - first:
+      213: 5144732731799348486
+    second: Yggdra Animation_9
+  - first:
+      213: 59363503105908741
+    second: Yggdra Animation_10
+  - first:
+      213: -2321871000176094247
+    second: Yggdra Animation_11
+  - first:
+      213: 60493662376604053
+    second: Yggdra Animation_12
+  - first:
+      213: -2171824159475562080
+    second: Yggdra Animation_13
+  - first:
+      213: 703523267479827040
+    second: Yggdra Animation_14
+  - first:
+      213: 3716678363967408739
+    second: Yggdra Animation_15
+  - first:
+      213: -1326987756297883226
+    second: Yggdra Animation_16
+  - first:
+      213: 7717424924268439865
+    second: Yggdra Animation_17
+  - first:
+      213: 7215395339157054010
+    second: Yggdra Animation_18
+  - first:
+      213: -600279500808145806
+    second: Yggdra Animation_19
+  - first:
+      213: 8552360821098560482
+    second: Yggdra Animation_20
+  - first:
+      213: -3087225951708820663
+    second: Yggdra Animation_21
+  - first:
+      213: 7887678217859181286
+    second: Yggdra Animation_22
+  - first:
+      213: 164785822785578458
+    second: Yggdra Animation_23
+  - first:
+      213: 6942601657855123917
+    second: Yggdra Animation_24
+  - first:
+      213: -6788061908699429825
+    second: Yggdra Animation_25
+  - first:
+      213: -4400845973917430656
+    second: Yggdra Animation_26
+  - first:
+      213: -1472796549674715596
+    second: Yggdra Animation_27
+  - first:
+      213: -3374891482167271190
+    second: Yggdra Animation_28
+  - first:
+      213: -3063849183767817344
+    second: Yggdra Animation_29
+  - first:
+      213: -7720944242375502264
+    second: Yggdra Animation_30
+  - first:
+      213: 3279724359503908159
+    second: Yggdra Animation_31
+  - first:
+      213: -1672841355928850277
+    second: Yggdra Animation_32
+  - first:
+      213: 4971140437735951866
+    second: Yggdra Animation_33
+  - first:
+      213: 5791023355649658328
+    second: Yggdra Animation_34
+  - first:
+      213: -8331812593852467887
+    second: Yggdra Animation_35
+  - first:
+      213: -8787963127205412892
+    second: Yggdra Animation_36
+  - first:
+      213: 1525496132644472275
+    second: Yggdra Animation_37
+  - first:
+      213: -315940070159516991
+    second: Yggdra Animation_38
+  - first:
+      213: -5369901480615277714
+    second: Yggdra Animation_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yggdra Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cbf1dd10f8ed300800000000000000
+      internalID: 278817465111133206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801c992191c5d4a048b6c0921e92b63f
+      internalID: 2946850790698702617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616588c27846047fdb95c7af2e29eab6
+      internalID: -4029182682306362642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beafc7b509264c9d93abffafca49419
+      internalID: 3972907516259918545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441b0bd8e50f1451b874a4483840df13
+      internalID: -5938801849595850119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 287
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791778a4959646939effad770109dca
+      internalID: -2526673136882478170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e946fc6e8e4315ab2e434103d1011
+      internalID: 6703491354003122699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 246
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab6d74c4cb749ff9d2e5aa663777f2
+      internalID: 6954569092369168560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 246
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9887aafd7e74a7f9e480f12cad5019
+      internalID: 5904334519699514266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 246
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbec525068024ed785dea262b1399db
+      internalID: 5144732731799348486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d4f729fc89437bbff286e1ab2d2a6
+      internalID: 59363503105908741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 205
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce896e692de4a3382a702f5ffdb4b9
+      internalID: -2321871000176094247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 205
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26271f902d543bf8749866d8b7f005
+      internalID: 60493662376604053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95616a84242874f7f855c86cb66e363d
+      internalID: -2171824159475562080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 164
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b0b478ebb874c6ab929583f88f91d5
+      internalID: 703523267479827040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd065f8418b4b9abf9b00be6996255
+      internalID: 3716678363967408739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cabc73ccbc70468dabf3a3881cc4573
+      internalID: -1326987756297883226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455c5eec708a14dbb9401311e35192fa
+      internalID: 7717424924268439865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c50567b01194309b008998c080ba7a
+      internalID: 7215395339157054010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20700a1dc38d644c48bcadbb7803f399
+      internalID: -600279500808145806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6068a22fcb1cb46abaf4a78f5719a0aa
+      internalID: 8552360821098560482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc61f384d6144858934c5e4b3576fe
+      internalID: -3087225951708820663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7cd42789ad4a8b827d55c6841f373
+      internalID: 7887678217859181286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 123
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bada1c65fc4492a8334771efab6270
+      internalID: 164785822785578458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d513d89f6df8490d899f2e3aa27819c
+      internalID: 6942601657855123917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d90a0f382eb40958c59665b3deb120
+      internalID: -6788061908699429825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 41
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae451f8ce7844db95116a28609e28a
+      internalID: -4400845973917430656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c4c4044019e4a1ab5de91d200257b4
+      internalID: -1472796549674715596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54bf638b4c7b406da45c641c7b41a0f
+      internalID: -3374891482167271190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f613ae4792034c2e824d5646c0f9ae9
+      internalID: -3063849183767817344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_30
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6d2a11a4b71456f9212597c40aa12a
+      internalID: -7720944242375502264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5ba660411f476a84a33859d75b9f6
+      internalID: 3279724359503908159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_32
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085b16e6d57a449f0835a1635a3908de
+      internalID: -1672841355928850277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c254780c513942f4a913aaac988b5ea
+      internalID: 4971140437735951866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a3e8216abb441e896709323b701ba
+      internalID: 5791023355649658328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yggdra Animation_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3c9631649e24756adf484ca966e6d6
+      internalID: -8331812593852467887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 950e182c89ed847c8a957b1a49926e6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yggdra Animation_0: 278817465111133206
+      Yggdra Animation_1: 2946850790698702617
+      Yggdra Animation_10: 59363503105908741
+      Yggdra Animation_11: -2321871000176094247
+      Yggdra Animation_12: 60493662376604053
+      Yggdra Animation_13: -2171824159475562080
+      Yggdra Animation_14: 703523267479827040
+      Yggdra Animation_15: 3716678363967408739
+      Yggdra Animation_16: -1326987756297883226
+      Yggdra Animation_17: 7717424924268439865
+      Yggdra Animation_18: 7215395339157054010
+      Yggdra Animation_19: -600279500808145806
+      Yggdra Animation_2: -4029182682306362642
+      Yggdra Animation_20: 8552360821098560482
+      Yggdra Animation_21: -3087225951708820663
+      Yggdra Animation_22: 7887678217859181286
+      Yggdra Animation_23: 164785822785578458
+      Yggdra Animation_24: 6942601657855123917
+      Yggdra Animation_25: -6788061908699429825
+      Yggdra Animation_26: -4400845973917430656
+      Yggdra Animation_27: -1472796549674715596
+      Yggdra Animation_28: -3374891482167271190
+      Yggdra Animation_29: -3063849183767817344
+      Yggdra Animation_3: 3972907516259918545
+      Yggdra Animation_30: -7720944242375502264
+      Yggdra Animation_31: 3279724359503908159
+      Yggdra Animation_32: -1672841355928850277
+      Yggdra Animation_33: 4971140437735951866
+      Yggdra Animation_34: 5791023355649658328
+      Yggdra Animation_35: -8331812593852467887
+      Yggdra Animation_4: -5938801849595850119
+      Yggdra Animation_5: -2526673136882478170
+      Yggdra Animation_6: 6703491354003122699
+      Yggdra Animation_7: 6954569092369168560
+      Yggdra Animation_8: 5904334519699514266
+      Yggdra Animation_9: 5144732731799348486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
