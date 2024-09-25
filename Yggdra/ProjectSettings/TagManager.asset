@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Ladders
+  - Player
+  - Background
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Platforms
     uniqueID: 1576263087
+    locked: 0
+  - name: Climbers
+    uniqueID: 3676172319
     locked: 0
   - name: Player
     uniqueID: 362089017
