@@ -170,12 +170,12 @@ TextureImporter:
       name: Viskull_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 8
         y: 96
-        width: 26
-        height: 24
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -192,12 +192,12 @@ TextureImporter:
       name: Viskull_1
       rect:
         serializedVersion: 2
-        x: 27
+        x: 35
         y: 96
-        width: 26
-        height: 24
+        width: 14
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: Viskull_2
       rect:
         serializedVersion: 2
-        x: 54
+        x: 62
         y: 96
-        width: 26
-        height: 24
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: Viskull_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 6
         y: 72
-        width: 26
-        height: 24
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,15 +255,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_4
+      name: Viskull_5
       rect:
         serializedVersion: 2
-        x: 27
-        y: 72
-        width: 26
-        height: 24
+        x: 6
+        y: 48
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,15 +277,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_5
+      name: Viskull_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 33
         y: 48
-        width: 26
-        height: 24
+        width: 12
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -299,15 +299,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_6
+      name: Viskull_7
       rect:
         serializedVersion: 2
-        x: 27
-        y: 48
-        width: 26
-        height: 24
+        x: 6
+        y: 24
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -321,15 +321,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_7
+      name: Viskull_8
       rect:
         serializedVersion: 2
-        x: 0
+        x: 35
         y: 24
-        width: 26
-        height: 24
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,15 +343,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_8
+      name: Viskull_9
       rect:
         serializedVersion: 2
-        x: 27
+        x: 54
         y: 24
-        width: 26
-        height: 24
+        width: 15
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -365,15 +365,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_9
+      name: Viskull_10
       rect:
         serializedVersion: 2
-        x: 54
-        y: 24
-        width: 26
-        height: 24
+        x: 6
+        y: 0
+        width: 14
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,15 +387,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_10
+      name: Viskull_11
       rect:
         serializedVersion: 2
-        x: 0
+        x: 33
         y: 0
-        width: 26
-        height: 24
+        width: 14
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -409,15 +409,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_11
+      name: Viskull_12
       rect:
         serializedVersion: 2
-        x: 27
+        x: 60
         y: 0
-        width: 26
-        height: 24
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,15 +431,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_12
+      name: Viskull_13
       rect:
         serializedVersion: 2
-        x: 54
+        x: 89
         y: 0
-        width: 26
-        height: 24
+        width: 11
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -453,15 +453,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_13
+      name: Viskull_14
       rect:
         serializedVersion: 2
-        x: 81
+        x: 116
         y: 0
-        width: 26
-        height: 24
+        width: 11
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -475,15 +475,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_14
+      name: Viskull_15
       rect:
         serializedVersion: 2
-        x: 108
+        x: 145
         y: 0
-        width: 26
-        height: 24
+        width: 7
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -497,15 +497,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_15
+      name: Viskull_16
       rect:
         serializedVersion: 2
-        x: 135
+        x: 174
         y: 0
-        width: 26
-        height: 24
+        width: 2
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -519,15 +519,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_16
+      name: Viskull_17
       rect:
         serializedVersion: 2
-        x: 162
-        y: 0
-        width: 26
-        height: 24
+        x: 197
+        y: 1
+        width: 10
+        height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,15 +541,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_17
+      name: Viskull_18
       rect:
         serializedVersion: 2
-        x: 189
+        x: 222
         y: 0
-        width: 26
-        height: 24
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,23 +563,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Viskull_18
+      name: Viskull_4
       rect:
         serializedVersion: 2
-        x: 216
-        y: 0
-        width: 26
+        x: 33
+        y: 72
+        width: 14
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7269020901bb1eae0800000000000000
-      internalID: -1521729519262591449
+      spriteID: ac64188620b6446c5892eb0437f1562d
+      internalID: -957826119
       vertices: []
       indices: 
       edges: []
@@ -588,20 +588,20 @@ TextureImporter:
       name: Viskull_19
       rect:
         serializedVersion: 2
-        x: 243
+        x: 246
         y: 0
-        width: 26
-        height: 24
+        width: 21
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f4c3d1fdd2dc430f8ce9bf7deef1115
-      internalID: -957826119
+      spriteID: 15fedd0b3e8ea4a27838fc8c5313898b
+      internalID: 508138968
       vertices: []
       indices: 
       edges: []
@@ -622,24 +622,24 @@ TextureImporter:
     nameFileIdTable:
       Viskull_0: -4521178904977649078
       Viskull_1: 2833569646778940004
-      Viskull_10: -8789181357290760239
-      Viskull_11: 3507359973729951333
-      Viskull_12: -7382151766390962121
-      Viskull_13: -3436117325733147581
-      Viskull_14: -4431817017938346611
-      Viskull_15: -6972118590056867282
-      Viskull_16: 1676296950914202311
-      Viskull_17: -7443990912530109694
-      Viskull_18: -1521729519262591449
-      Viskull_19: -957826119
+      Viskull_10: 3293821256051690165
+      Viskull_11: -8789181357290760239
+      Viskull_12: 3507359973729951333
+      Viskull_13: -7382151766390962121
+      Viskull_14: -3436117325733147581
+      Viskull_15: -4431817017938346611
+      Viskull_16: -6972118590056867282
+      Viskull_17: 1676296950914202311
+      Viskull_18: -7443990912530109694
+      Viskull_19: 508138968
       Viskull_2: 4136630144141006906
       Viskull_3: -796333575804155330
-      Viskull_4: -5307769219115001069
-      Viskull_5: 745459044877864219
-      Viskull_6: 4069173626812951565
-      Viskull_7: 6637616809986605491
-      Viskull_8: 3117839670729953500
-      Viskull_9: 3293821256051690165
+      Viskull_4: -957826119
+      Viskull_5: -5307769219115001069
+      Viskull_6: 745459044877864219
+      Viskull_7: 4069173626812951565
+      Viskull_8: 6637616809986605491
+      Viskull_9: 3117839670729953500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
