@@ -8,6 +8,7 @@ public class ViskullEnemyMovement : MonoBehaviour
     Transform viskullTranform;
     BoxCollider2D viskullBoxCollider;
     Animator viskullAnimator;
+    [SerializeField] PlayerMovement playerScript;
 
     void Start()
     {
@@ -18,8 +19,9 @@ public class ViskullEnemyMovement : MonoBehaviour
     }
 
     void Update()
-    {
-        Move();
+    {       
+       Move();
+       StopMovement();
     }
 
     void FlipEnemySprite()
@@ -29,11 +31,20 @@ public class ViskullEnemyMovement : MonoBehaviour
 
     void Move ()
     {
+
         viskullRigidbody.linearVelocityX = movementSpeed;
 
         bool enemyHasHorizontalSpeed = Mathf.Abs(viskullRigidbody.linearVelocityX) > Mathf.Epsilon;
         FlipEnemySprite();
         viskullAnimator.SetBool("isWalking", enemyHasHorizontalSpeed);       
+    }
+
+    void StopMovement()
+    {
+        if (!playerScript.GetPlayerDeathState())
+        {
+            movementSpeed = Mathf.Epsilon;
+        }
     }
 
     void OnTriggerExit2D(Collider2D other) 

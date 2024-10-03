@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     bool isAlive = true;
     CapsuleCollider2D playerCapsuleCollider;
     BoxCollider2D playerFeetCollider2D;
+    GameObject beamPrefab;
     [SerializeField] float playerSpeed;
     [SerializeField] float jumpSpeed = 5f;
     [SerializeField] float climbSpeed;
@@ -103,7 +104,7 @@ public class PlayerMovement : MonoBehaviour
 
     void HitByEnemy()
     {
-        if (playerCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Enemies")))
+        if (playerCapsuleCollider.IsTouchingLayers(LayerMask.GetMask("Enemies", "Spikes", "Water")))
         {
             PlayerDeath();
         }
@@ -112,5 +113,18 @@ public class PlayerMovement : MonoBehaviour
     void PlayerDeath()
     {
         isAlive = false;
+        playerRigidbody2D.bodyType = RigidbodyType2D.Static;
+        playerAnimator.SetTrigger("Dying");
+    }
+
+    public bool GetPlayerDeathState()
+    {
+        Debug.Log("Player: " + isAlive);
+        return isAlive;
+    }
+
+    void OnAttack(InputValue value)
+    {
+        //Instantiate()
     }
 }

@@ -776,40 +776,23 @@ TextureImporter:
         serializedVersion: 2
         x: 144
         y: 110
-        width: 7
-        height: 12
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 5, y: 4}
+        - {x: 0, y: 4}
+        - {x: -5, y: 4}
       tessellationDetail: 0
       bones: []
       spriteID: e20b9ea9c1e076b40800000000000000
       internalID: 5433326991466672174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 16x16 Yggdra Tileset And Sprites 1_23
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 110
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63f2b99e189a5fc80800000000000000
-      internalID: -8289533163670393034
       vertices: []
       indices: 
       edges: []
